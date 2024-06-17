@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Microsoft Edge  Novedades",
+  "Type": "Screen",
+  "Id": "DVJCtiThKUOsigZStACb9g",
+  "Reference": "45aWoLvi_kCnuV9aX0sp-A/DVJCtiThKUOsigZStACb9g",
+  "ParentRef": "45aWoLvi_kCnuV9aX0sp-A/RKTmgj5nWk-4Gp3_AVcZHw",
+  "Created": "2024-06-17T21:31:21.4427872Z",
+  "Updated": "2024-06-17T21:31:21.4427872Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
